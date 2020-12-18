@@ -73,3 +73,12 @@ button[type="submit"]:hover {
     padding: 15px 20px;
     font-weight: bold;
 }
+
+input[type="text"] {
+    width: 95%;
+    display: block;
+    height: 40px;
+    font-size: 18px;
+    margin: 0 auto;
+    padding-left: 8px;
+}
